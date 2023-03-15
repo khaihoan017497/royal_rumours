@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:2614
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:2614.00000,
-https://raw.githubusercontent.com/klmusicmovie/royal_rumours/main/ep_1/Korean.vtt
-#EXT-X-ENDLIST
