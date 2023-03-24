@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2614
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:2614.00000,
+https://raw.githubusercontent.com/khaihoan017497/royal_rumours/main/ep_16/Thai.vtt
+#EXT-X-ENDLIST
